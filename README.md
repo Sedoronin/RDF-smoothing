@@ -35,7 +35,7 @@ pip install numpy pandas matplotlib scipy plotly
 
 ###Usage
 
-python smooth_rdf.py path/to/input_file.dat [--window WINDOW_SIZE] [--spline-s SMOOTHING] [--gauss-sigma SIGMA]
+python rdf-smoothing.py path/to/input_file.dat [--window WINDOW_SIZE] [--spline-s SMOOTHING] [--gauss-sigma SIGMA]
 
 
 ## Arguments

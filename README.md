@@ -38,7 +38,7 @@ pip install numpy pandas matplotlib scipy plotly
 python smooth_rdf.py path/to/input_file.dat [--window WINDOW_SIZE] [--spline-s SMOOTHING] [--gauss-sigma SIGMA]
 
 
-##Arguments
+## Arguments
 
 input_file (required): Path to a whitespace-delimited .dat file with two columns: r, g(r)
 

@@ -1,4 +1,4 @@
-# RDFsmooth — RDF Smoothing and Visualization Tool
+# RDF-smoothing — RDF Smoothing and Visualization Tool
 
 This Python script allows you to smooth and visualize radial distribution function (RDF) data using several techniques: **Moving Average**, **Univariate Spline Interpolation**, and **Gaussian Filtering**. It also generates an interactive Plotly chart for comparison and saves the smoothed data to disk.
 
